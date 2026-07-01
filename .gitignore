@@ -1,0 +1,17 @@
+# Windows-only / local tooling — not needed for cloud deploy
+ngrok.exe
+ngrok.log
+*.bat
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
